@@ -1,0 +1,42 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Unity cache and other generated data
+/[Oo]bj/
+/[Uu]ser[Ss]ettings/
+/[Aa]ssets/AssetStoreTools*
+
+# Builds
+*.apk
+*.aab
+*.xcodeproj
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
